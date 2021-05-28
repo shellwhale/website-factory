@@ -1,0 +1,30 @@
+* {
+    padding: 0 0 0 0;
+    margin: 0 0 0 0;
+}
+
+body {
+    height: 100vh;
+    width: 100vw;
+    background-color: var(--base-color);
+
+
+    display: flex;
+    flex-direction: column;
+
+    justify-content: center;
+    align-items: center;
+}
+
+section {
+    height: 90vh;
+    width: 90vh;
+
+    background-color: var(--foreground-color);
+}
+
+.card {
+    background-color: var(--green);
+
+    text-align: center;
+}

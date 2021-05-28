@@ -1,0 +1,19 @@
+{
+    "title" : "FruityGrid",
+    "base_url" : "https://fruity-grid.com/index.html",
+    "thumbnail_url" : "https://fruity-grid.com/thumbnail.jpg",
+    "application_name": "FruityGrid",
+    "theme_color" : "#f1c40f",
+    "description" : "FruityGrid is my personnal grid css playground",
+    "google_verification_token" : "",
+    "yandex_verification_token" : "",
+    "bing_verification_token" : "",
+    "alexa_verification_token" : "",
+    "code_from_pinterest" : "",
+    "norton_code" : "",
+    "generator" : "Visual Studio Code",
+    "subject" : "FruityGrid is my personnal grid css playground",
+    "rating" : "general",
+    "keywords" : "FruityGrid css",
+    "author" : "shellwhale"
+}
